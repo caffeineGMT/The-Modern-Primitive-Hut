@@ -1,0 +1,12 @@
+outer:30
+inner:15
+speed:21.6mm/s (36% of 60mm/s)
+nozzle size:5mm
+layer gap height: 4mm
+truss lines number: 15
+foam height(including 1mm plexi base): 87mm
+
+time: 40min upward for 1 geometry
+can print out 3 with 1 tube
+too much water in procelain, 1 day soaked in water would be enough, 30 hours
+points number in total : approximately 570
